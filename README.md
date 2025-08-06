@@ -1,2 +1,2 @@
 # java-basico
-Exercicios básico que tenho feito
+Exercicios básicos que tenho feito
